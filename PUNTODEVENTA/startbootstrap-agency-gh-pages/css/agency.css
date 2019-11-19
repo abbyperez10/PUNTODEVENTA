@@ -173,9 +173,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/blake.jpg");
-   background-blend-mode: soft-light;
-    background-color:rgba(0, 0, 0, 0.6);
+  background-image: url("../img/blake-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
